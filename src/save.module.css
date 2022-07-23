@@ -1,0 +1,22 @@
+.bnt{
+  position: fixed;
+  outline: none;
+  border: none;
+  top: 1rem;
+  left: 2rem;
+  font-size: 1.4rem;
+  background-color: rgb(245, 245, 245);
+  box-shadow: 0px 0px 9px rgba(0, 0, 0, 0.233);
+  padding: 0.5rem;
+  margin-right: 1rem;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: all 300ms;
+}
+
+.bnt:hover{
+  transform: scale(1.03);
+}
+.bnt:active{
+  transform: scale(.9);
+}
