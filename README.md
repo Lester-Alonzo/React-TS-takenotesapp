@@ -5,5 +5,7 @@ app to take notes and save on local storage
 - [x] upload images to notes
 - [ ] Record audio to notes
 - [ ] make posible to share notes with others
+- [ ] print option
+
 
 
